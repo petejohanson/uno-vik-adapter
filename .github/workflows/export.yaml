@@ -19,9 +19,9 @@ jobs:
         uses: actions/upload-artifact@v2
         with:
           name: jlc
-          path: JLCPCB/zmk-uno-JLCPCB.zip
+          path: JLCPCB/uno-vik-adapter-JLCPCB.zip
       - name: Archive Positions/BOM
         uses: actions/upload-artifact@v2
         with:
           name: jlc
-          path: zmk-uno_*jlc.csv
+          path: uno-vik-adapter_*jlc.csv
