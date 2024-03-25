@@ -9,7 +9,7 @@ jobs:
     if: ${{ always() }}
     runs-on: ubuntu-latest
     container:
-      image: docker.io/setsoft/kicad_auto:dev_k6
+      image: ghcr.io/inti-cmnb/kicad_auto_test:nightly
     steps:
       - name: Checkout
         uses: actions/checkout@v2
