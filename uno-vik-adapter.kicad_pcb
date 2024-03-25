@@ -1480,7 +1480,7 @@
 		(layer "F.Cu")
 		(uuid "40bd1600-4b1b-4039-b63a-98d9a2afd287")
 		(at 134.25 73.33 90)
-		(property "Reference" "REF**"
+		(property "Reference" "VMH1"
 			(at 0 -0.5 90)
 			(unlocked yes)
 			(layer "F.SilkS")
@@ -3144,7 +3144,7 @@
 		(at 104.75 95.5)
 		(descr "Mounting Hole 2.2mm, M2")
 		(tags "mounting hole 2.2mm m2")
-		(property "Reference" "REF**"
+		(property "Reference" "VMH3"
 			(at 0 -7.85 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -3522,7 +3522,7 @@
 		(at 104.75 51)
 		(descr "Mounting Hole 2.2mm, M2")
 		(tags "mounting hole 2.2mm m2")
-		(property "Reference" "REF**"
+		(property "Reference" "VMH2"
 			(at 0 -3.2 0)
 			(layer "F.SilkS")
 			(hide yes)

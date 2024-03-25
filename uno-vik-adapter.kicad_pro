@@ -622,6 +622,7 @@
     ]
   ],
   "text_variables": {
-    "REV": "abc123"
+    "REV": "f53cb8e",
+    "TIMESTAMP": "2024-03-25"
   }
 }
