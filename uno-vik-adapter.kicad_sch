@@ -3681,6 +3681,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part Number" "C479750"
+			(at 198.12 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "1faef38e-60c1-46cb-bd08-224aa4bef638")
 		)
@@ -4030,6 +4039,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 153.67 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part Number" "C479750"
 			(at 153.67 49.53 0)
 			(effects
 				(font
